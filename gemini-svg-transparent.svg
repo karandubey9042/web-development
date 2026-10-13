@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 100" width="100%" height="100%">
+  <!-- Optional: Wrap in an <a> tag if you want the logo to be clickable -->
+  <a href="#profile-section">
+    
+    <!-- Icon / Monogram (Modern DV Box) -->
+    <g transform="translate(15, 15)">
+      <rect x="0" y="0" width="70" height="70" fill="#000000" rx="8"/>
+      <text x="35" y="47" fill="#ffffff" font-family="Georgia, serif" font-size="28" font-weight="bold" text-anchor="middle">DV</text>
+    </g>
+    
+    <!-- Typography -->
+    <text x="105" y="47" fill="#000000" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="bold" letter-spacing="1.5">DUBEY</text>
+    <text x="105" y="72" fill="#333333" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="400" letter-spacing="8">VIEW</text>
+    
+  </a>
+</svg>
